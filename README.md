@@ -23,11 +23,17 @@ https://en.wikipedia.org/wiki/Function_composition_(computer_science)#Naming_the
 
 https://rosettacode.org/wiki/Function_composition#C
 
-## Books
+## Libs
+
+https://github.com/mcinglis/libpp
+
+https://github.com/mcinglis/macrofun
+
+
+## Books, papers, others
 
 https://www.amazon.com/Functional-C-International-Computer-Science/dp/0201419505
 
-
-## Papers
-
 https://research.utwente.nl/en/publications/the-functional-c-experience-2
+
+ftp://ftp-sop.inria.fr/indes/TFP15/TFP2015_submission_11.pdf
