@@ -29,6 +29,8 @@ https://github.com/mcinglis/libpp
 
 https://github.com/mcinglis/macrofun
 
+https://github.com/Leushenko/C99-Lambda
+
 
 ## Books, papers, others
 
