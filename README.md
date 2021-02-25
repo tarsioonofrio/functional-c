@@ -39,3 +39,5 @@ https://www.amazon.com/Functional-C-International-Computer-Science/dp/0201419505
 https://research.utwente.nl/en/publications/the-functional-c-experience-2
 
 ftp://ftp-sop.inria.fr/indes/TFP15/TFP2015_submission_11.pdf
+
+
